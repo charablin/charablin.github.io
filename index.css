@@ -1,0 +1,22 @@
+header h1 {
+  outline: 1px solid red;
+  color: white;
+  background: navy;
+}
+
+h1  {
+  color: green;
+  }
+  html  {background: skyblue;
+  }
+  * {
+    text-align: center;
+  }
+
+  li {
+    list-style: none;
+  }
+  body {
+     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+     font-weight: 300;
+  }
